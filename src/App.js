@@ -7,10 +7,10 @@ import SingleMemo from './components/SingleMemo';
 
 const memoImages = [
   {"src": "/img/book.JPG", matched: false},
-  {"src": "/img/cousins.JPG", matched: false},
-  {"src": "/img/delish.JPG", matched: false},
+  {"src": "/img/cousins.jpg", matched: false},
+  {"src": "/img/delish.jpg", matched: false},
   {"src": "/img/sea.JPG", matched: false},
-  {"src": "/img/toto.JPG", matched: false},
+  {"src": "/img/toto.jpg", matched: false},
   {"src": "/img/train.JPG", matched: false}
 ]
 
